@@ -1,9 +1,10 @@
 {
   "name": "ag-grid",
-  "version": "1.4.1",
+  "version": "1.4.101",
   "homepage": "http://angulargrid.com/",
   "authors": [
-    "Niall Crosby <info@angulargrid.com>"
+    "Niall Crosby <info@angulargrid.com>",
+    "Tim Trahan <timctrahan@gmail.com>"
   ],
   "description": "High performance and feature rich data grid for AngularJS",
   "main": [
